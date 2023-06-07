@@ -183,3 +183,113 @@
       border-radius: 6px;
       margin-top: 450px
     }
+    .button-text:hover {
+        background-color: lightgray;
+      }
+      
+      .photo{
+        width: 34%;
+        height: 530px;
+     margin-left: 80px;
+     }
+     .text6{
+        position: absolute;
+        width: 663px;
+        height: 54px;
+        bottom:-260px;
+        right: -70px;
+        margin-right: 200px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+        font-size: 36px;
+        word-spacing: 10px;
+    }
+    .text4{
+        align-items: start;
+        position: absolute;
+        width: 563px;
+        height: 54px;
+        bottom: -340px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    
+      .text-container1{
+        width: 1000px;
+        height: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 500px;
+      }
+      .image1 {
+        width: 37%;
+        height: 500px;
+        float: right;
+        margin-left: 730px;
+      }
+      .line2{
+        margin-left: 596px;
+        width: 355px;
+        border:1px solid rgb(223, 223, 223);
+    }
+    .text7{
+      position: absolute;
+      width: 663px;
+      height: 54px;
+      top: 1410px;
+      margin-right: 200px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 28px;
+      font-size: 36px;
+      word-spacing: 10px;
+    }
+    .text8{
+      align-items: start;
+      position: absolute;
+      width: 563px;
+      height: 54px;
+      top: 1480px;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 28px;
+    }
+    .button-text1 {
+      display: inline-block;
+      padding: 10px 30px;
+      color: rgb(148, 148, 148);
+      border: 2px solid rgb(197, 197, 197);
+      border-radius: 6px;
+     margin-top: 300px;
+    }
+    
+    .button-text1:hover {
+      background-color: lightgray;
+    }
+    .line3{
+      margin-left: 96px;
+      width: 855px;
+      height: 1px;
+      margin-top:0px;
+      border:1px solid rgb(197, 197, 197);
+    }
+    .text9{
+      position: absolute;
+      width: 663px;
+      height: 54px;
+    margin-top: 60px;
+     margin-left: 44%;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 28px;
+      font-size: 36px;
+      word-spacing: 10px;
+    }
+    
+    
+    
