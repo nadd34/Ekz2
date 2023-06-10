@@ -579,19 +579,23 @@
         margin-left: 39%;
       }
       
+      
       .icon001{
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
         border-radius: 50%;
         border: 1px solid #727272;
         margin-right: 10px;
+      }
+      .icon001:hover{
+        background-color: #d5d5d5;
       }
       .twitter{
         margin-left: 5px;
         margin-top: 5px;
       }
       .footer{
-        margin-left: 44.3%;
+        margin-left: 42.3%;
         margin-top: 40px;
       }
     
